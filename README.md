@@ -14,7 +14,7 @@ A Python function designed to count the digits in the integer part of a number, 
 ### Example Usage
 
 ```python
-from your_module_name import count_integer_digits
+from function import count_integer_digits
 
 print(count_integer_digits(123.456))        # Output: 3
 print(count_integer_digits(-456.789))       # Output: 3
